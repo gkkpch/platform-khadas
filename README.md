@@ -12,6 +12,8 @@ hwpacks and other: http://github.com/khadas/fenix
 patches: see usb-audio patch in this repo   
 kernel build: see script in this repo plus kernel config in vims.tar.xz  
 
+Credits: @hyphop (khadas) and @balbes150 (volumio, armbian, khadas) for some important pointers
+
 2019-11-16: Initial /gkkpch  
 
-
+2019-11-17: fixed a utf-8 issue with mounting a cifs device
